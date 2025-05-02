@@ -45,6 +45,7 @@ My journey in computer science and IT has led me to develop a keen interest in c
 <div>
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/ISC2%20CC-00693E?style=for-the-badge&logo=security&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)" />
   <img src="https://img.shields.io/badge/PNPT-0F1C4D?style=for-the-badge&logo=crossed-swords&logoColor=white)" />
 
 
