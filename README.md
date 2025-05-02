@@ -8,7 +8,6 @@ I'm an IT guy with a knack for problem solving and a passion for all things tech
 My journey in computer science and IT has led me to develop a keen interest in cybersecurity. I'm eager to try and transition into this field, aiming to get involved with SOC Operations or a role on a Red/Blue team.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skills                                        | Associated Project or Platform |
 |-----------------------------------------------|----------------------------|
