@@ -14,7 +14,7 @@ My journey in computer science and IT has led me to develop a keen interest in c
 | Scanning & Enumeration                        | Pentesting Homelab |
 | Windows & Linux Privilege Escalation          | Pentesting Homelab |
 | SIEM Implementation & Log Analysis            | SOC Automation Lab |
-| Port Scanner Tool                             | Python |
+| PaulScans - Vulnerability Scanner             | Python |
 | Simple Keylogger                              | Python |
 
 
