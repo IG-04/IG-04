@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/aguilerp"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm an IT guy with a knack for problem solving and a passion for all things tech. 
+I'm an IT professional with a knack for problem solving and a passion for all things tech. 
 
 ## Objective
 My journey in computer science and IT has led me to develop a keen interest in cybersecurity. I'm eager to try and transition into this field, aiming to get involved with SOC Operations or a role on a Red/Blue team.
